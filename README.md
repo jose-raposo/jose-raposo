@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 **🌱 Looking forward to learn:** <br>
 <br>
 <code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <br>
 <br>
 <br>
