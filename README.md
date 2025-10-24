@@ -6,8 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-**🔭 I’m currently working as a Data Scientist researcher on Healthcare solutions**<br>
-**🌱 I’m currently learning Spark**
+**🔭 I’m currently working as a Data Scientist researcher on medical solutions**<br>
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
@@ -16,7 +15,6 @@ Here are some ideas to get you started:
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://cran.r-project.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></a></code>
 <code><a href="https://www.docker.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></a></code>
@@ -27,7 +25,6 @@ Here are some ideas to get you started:
 <br>
 **🌱 Looking forward to learn:** <br>
 <br>
-<code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <br>
 <br>
@@ -36,9 +33,6 @@ Here are some ideas to get you started:
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://www.linkedin.com/in/jose-neto1/">
-   <img align="left" alt="José Neto | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  </a>
   <a href="jraposoneto60@gmail.com">
     <img align="left" alt="José Neto | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
